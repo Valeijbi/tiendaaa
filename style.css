@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black ;
+}
+.nav-link{
+    color: black;
+}
+.navbar.link-active{
+    color: palevioletred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form-control{
+    width:auto;
+}
+h1{
+    color: deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    color: rgb(231, 34, 100);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.row{
+    color: purple;
+}
+.card-title{
+    color: plum;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
